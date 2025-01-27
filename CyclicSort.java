@@ -1,5 +1,3 @@
-package pack;
-
 public class CyclicSort {
 
     // use this sorting algorithm when the array is the range from 1 to n
