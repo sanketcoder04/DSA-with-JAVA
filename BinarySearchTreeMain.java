@@ -1,5 +1,3 @@
-package pack;
-
 class BinarySearchTree {
     Node root;
 
