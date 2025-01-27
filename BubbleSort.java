@@ -1,5 +1,3 @@
-package pack;
-
 public class BubbleSort{    
                        
     // Also known as sinking sort or exchange sort
